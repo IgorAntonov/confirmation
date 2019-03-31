@@ -2,7 +2,7 @@
   "code": {
     "code": "7329"
   },
-  "codeWithError": {
+  "error": {
     "key": "SERVER_ERROR",
     "message": "Server error. Unable to send code."
   }
