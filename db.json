@@ -1,9 +1,11 @@
 {
+  "number": {
+    "status": "OK"
+  },
   "code": {
-    "code": "7329"
+    "status": "OK"
   },
   "error": {
-    "key": "SERVER_ERROR",
-    "message": "Server error. Unable to send code."
+    "status": "ERROR"
   }
 }
